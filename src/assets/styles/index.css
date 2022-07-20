@@ -46,6 +46,11 @@ body {
   margin: 0 24px;
 }
 
+/* Hidden */
+.hidden {
+  display: none;
+}
+
 /* Images */
 img {
   max-width: 100%;
