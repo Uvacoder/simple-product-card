@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- [ASolution URL](https://your-solution-url.com)
-- [Live Site UR](https://your-live-site-url.com)
+- [Solution URL](https://your-solution-url.com)
+- [Live Site UR](https://alexperronnet.github.io/fem-product-preview-card-component/)
 
 ## My process
 
