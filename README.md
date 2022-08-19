@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-Sivnw_GqMf)
-- [Live Site URL](https://ap-fem-product-preview-card-component.netlify.app/)
+- [Live Site URL](https://alexperronnet.github.io/frontendmentor-product-preview-card-component/)
 
 ## My process
 
@@ -41,4 +41,3 @@ Users should be able to:
 
 - Frontend Mentor - [@alexperronnet](https://www.frontendmentor.io/profile/alexperronnet)
 - Website - [alexperronnet.dev](https://alexperronnet.dev)
-
